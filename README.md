@@ -31,21 +31,41 @@ I'm currently expanding my work into AI Engineering, building projects involving
 - Structured outputs
 - Evaluation and observability
 
+  
 ## 🚀 Featured Work
 
-### ICASA
+### 🌐 ICASA
 Professional website developed with Next.js, TypeScript and Tailwind CSS.
 
-### VIANSA
-Corporate website built and deployed with Next.js.
+[Visit website](https://icasa.ar)
 
-### AI Engineering Projects
-Projects involving RAG, agents, multi-agent systems and multimodal AI.
+### 🌱 VIANSA
+Corporate website developed and deployed with Next.js.
+
+[Visit website](https://viansa.com.ar)
+
+### 🤖 AI Engineering Projects
+Projects focused on RAG, AI agents, multi-agent orchestration and multimodal applications.
 
 ## 🛠 Tech Stack
 
-TypeScript · JavaScript · React · Next.js · Node.js · PostgreSQL · Python  
-LangChain · LangGraph · Git · GitHub · Vercel
+### Development
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+### AI Engineering
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C)
+![LangGraph](https://img.shields.io/badge/LangGraph-AI_Agents-black)
+![RAG](https://img.shields.io/badge/RAG-Semantic_Retrieval-blue)
+![AI Agents](https://img.shields.io/badge/AI-Agents-purple)
 
 ## 🌎 Connect with me
 
